@@ -1,42 +1,97 @@
-<h1 align="center">Hi 👋, I'm Student/developer</h1>
-<h3 align="center">A passionate AI/ML Engineer from Pakistan</h3>
+<!-- ============ BANNER ============ -->
+<!-- Swap this for your own animated banner at assets/banner.gif (like Hamza does). Capsule works out-of-the-box until then. -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=210&section=header&text=Maaz%20Hussain&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Shopify%20Partner&descSize=18&descAlignY=58" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maazhussain786&label=Profile%20views&color=0e75b6&style=flat" alt="maazhussain786" /> </p>
+# Maaz Hussain
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maazhussain786" alt="maazhussain786" /></a> </p>
+**AI/ML Engineer · Full-Stack Developer · Founder @ MH Digital (Shopify Partner)**
 
-- 🔭 I’m currently working on **Cooking some cool AI/ML projects, Breaking models until they start behaving.**
+- I build applied AI and full-stack products — from PyTorch model internals to shipped Next.js apps
+- Founder of **MH Digital**, a Shopify Partner studio building e-commerce stores for the Gulf / Saudi market
+- Currently deep in deep learning: transformer encoders, RNNs with attention, and adversarial robustness (FGSM, PGD, C&W)
+- Building a config-driven university admissions platform for Pakistan — UET, COMSATS, FAST-NUCES, MDCAT
+- BS Computer Science, specializing in AI/ML
 
-- 🌱 I’m currently learning **TensorFlow & PyTorch**
+**Live products:** [NUST Aggregate Calculator](https://nustaggregatecalculator.app) · [HorizonPreps](https://horizonpreps.com)
 
-- 👯 I’m looking to collaborate on **Anything AI/ML related (preferably something where I don’t break production servers).**
+**Email:** <maazhussain972@gmail.com>
 
-- 🤝 I’m looking for help with **Projects that involve less bugs and more features**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maazhussain786](https://github.com/Maazhussain786)
+# ⚙️ Tech Stack
 
-- 📝 I regularly write articles on [Coming soon (once I stop procrastinating).](Coming soon (once I stop procrastinating).)
+- **Languages:** `Python` `JavaScript` `TypeScript` `C++` `C` `Java` `SQL`
+- **AI / ML:** `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `OpenCV`
+- **Deep Learning:** `Transformers` `Attention / RNNs` `Adversarial Attacks (FGSM · PGD · C&W)` `Training Loops`
+- **Frontend:** `React` `Next.js` `TailwindCSS` `HTML5` `CSS`
+- **Backend:** `Node.js` `Express` `REST APIs`
+- **Databases:** `MongoDB` `PostgreSQL` `MySQL` `Redis` `Neo4j` `Firebase`
+- **E-commerce:** `Shopify` `Liquid` `GraphQL Admin API` `Hyper Theme`
+- **Tooling & DevOps:** `Git` `GitHub` `Claude Code` `Docker` `Linux` `Vercel`
 
-- 💬 Ask me about **AI/ML, Python**
+---
 
-- 📫 How to reach me **maazhussain972@gmail.com**
+## All Time Coding Stats
+<!-- Auto-filled by the WakaTime GitHub Action (athul/waka-readme). Setup steps below. -->
+<!--START_SECTION:waka-->
+```
+Connect WakaTime + add the waka-readme Action to populate this block automatically.
+```
+<!--END_SECTION:waka-->
 
-- 📄 Know about my experiences [in/maaz-hussain-5aa14b329](in/maaz-hussain-5aa14b329)
+---
 
-- ⚡ Fun fact **I don’t know any fun fact about myself…**
+## GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/maaz-hussain-5aa14b329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/maaz-hussain-5aa14b329" height="30" width="40" /></a>
-<a href="https://kaggle.com/mhb_maaz972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mhb_maaz972" height="30" width="40" /></a>
-<a href="https://instagram.com/mhb_maaz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhb_maaz2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mhb_maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mhb_maaz" height="30" width="40" /></a>
-<a href="https://discord.gg/maaz0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="maaz0001" height="30" width="40" /></a>
-</p>
+[![streak graph](https://streak-stats.demolab.com?user=maazhussain786&locale=en&mode=daily&theme=react&hide_border=true&border_radius=20&order=3)](https://git.io/streak-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maazhussain786&radius=50&theme=react&area=true&order=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maazhussain786&show_icons=true&locale=en&layout=compact" alt="maazhussain786" /></p>
+<!-- 3D graph is generated by the github-profile-3d-contrib Action into the path below. Setup steps below. -->
+![GitHub Contributions 3D](https://raw.githubusercontent.com/maazhussain786/maazhussain786/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maazhussain786&show_icons=true&locale=en" alt="maazhussain786" /></p>
+---
+
+# My Projects & Repositories
+
+> Replace every `REPO_URL_HERE` with your real repo link. Descriptions are written — just drop the links.
+
+## AI / ML & Deep Learning
+
+| #  | Project | Description |
+| --- | ------- | ----------- |
+| 1. | [Adversarial Attacks on Image Classifiers](REPO_URL_HERE) | PyTorch implementations of FGSM, PGD, and C&W attacks — crafting perturbations, measuring robustness, and testing defenses on trained classifiers. |
+| 2. | [Transformer Encoder from Scratch](REPO_URL_HERE) | A transformer encoder built line-by-line in PyTorch — multi-head attention, positional encoding, and layer norm, wired into a full training loop. |
+| 3. | [RNN with Attention](REPO_URL_HERE) | Sequence model pairing an RNN with an attention mechanism, walked through step by step with concrete examples. |
+
+## Full-Stack & Web
+
+| #  | Project | Description |
+| --- | ------- | ----------- |
+| 1. | [NUST Aggregate Calculator](https://nustaggregatecalculator.app) | Next.js admissions tool for NUST applicants — aggregate calculator, merit history, and an admission predictor. Live, with real traffic. |
+| 2. | [HorizonPreps Admissions Platform](https://horizonpreps.com) | Config-driven Next.js platform consolidating multiple properties into one, covering UET, COMSATS, FAST-NUCES, and MDCAT. |
+
+## E-commerce — MH Digital (Shopify Partner)
+
+| #  | Project | Description |
+| --- | ------- | ----------- |
+| 1. | Saudi-Market Shopify Store *(client / private)* | Full store build on the Hyper theme — automated product import via the GraphQL Admin API, structured build pipeline, and Arabic / RTL support. |
+
+## Databases & Coursework
+
+| #  | Project | Description |
+| --- | ------- | ----------- |
+| 1. | [Polyglot Persistence (CS236)](REPO_URL_HERE) | Relational Oracle schema extended into MongoDB, Redis, and Neo4j — with a justification framework for each store and an integration layer tying them together. |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maazhussain786&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/maaz-hussain-5aa14b329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maazhussain972@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://kaggle.com/mhb_maaz972"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/mhb_maaz"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+</div>
