@@ -6,7 +6,7 @@
 
 # Maaz Hussain
 
-**AI/ML Engineer · Full-Stack Developer · Founder @ MH Digital (Shopify Partner)**
+**AI/ML Engineer · Full-Stack Developer**
 
 - I build applied AI and full-stack products — from PyTorch model internals to shipped Next.js apps
 - Founder of **MH Digital**, a Shopify Partner studio building e-commerce stores for the Gulf / Saudi market
