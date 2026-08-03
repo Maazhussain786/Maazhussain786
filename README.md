@@ -9,7 +9,6 @@
 **AI/ML Engineer · Full-Stack Developer**
 
 - I build applied AI and full-stack products — from PyTorch model internals to shipped Next.js apps
-- Founder of **MH Digital**, a Shopify Partner studio building e-commerce stores for the Gulf / Saudi market
 - Currently deep in deep learning: transformer encoders, RNNs with attention, and adversarial robustness (FGSM, PGD, C&W)
 - Building a config-driven university admissions platform for Pakistan — UET, COMSATS, FAST-NUCES, MDCAT
 - BS Computer Science, specializing in AI/ML
